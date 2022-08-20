@@ -1,0 +1,124 @@
+body { 
+    background-color: rgb(131, 131, 131);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.calc {
+    background-color: rgb(215, 215, 219);
+    display: grid;
+    grid-template-rows: repeat(1fr,4);
+    grid-template-columns: repeat(1fr,6);
+    grid-template-areas: "display display display clear"
+                         "one two three multi"
+                         "four five six div"
+                         "seven eight nine add"
+                         "dec zero equal sub"
+                         ;
+
+    padding: 15px;
+    grid-gap: 15px;
+    border:7px solid ;
+    border-color: white;
+    border-radius: 12px;
+    
+
+}
+
+
+button {
+    background-color: rgb(77, 74, 74);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    border: 2px solid;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+
+}
+
+.display {
+    grid-area: display;
+    border:2px solid ;
+    color: black;
+    border-color: white;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: end;
+}
+
+#one {
+    grid-area: one;
+}
+
+#two {
+    grid-area: two;
+}
+
+#three {
+    grid-area: three;
+}
+
+#four {
+    grid-area: four;
+}
+
+#five {
+    grid-area: five;
+}
+
+#six {
+    grid-area: six;
+}
+
+#seven {
+    grid-area: seven;
+}
+
+#eight {
+    grid-area: eight;
+}
+
+#nine {
+    grid-area: nine;
+}
+
+#zero {
+    grid-area: zero;
+}
+
+#multi {
+    grid-area: multi;
+}
+
+#div {
+    grid-area: div;
+}
+
+#add {
+    grid-area: add;
+}
+
+#sub {
+    grid-area: sub;
+}
+
+#equal {
+    grid-area: equal;
+}
+
+#dec {
+    grid-area: dec;
+}
+
+#clear {
+    grid-area: clear;
+    font-size: 20px;
+    background-color: rgb(248, 159, 159);
+}
