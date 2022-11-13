@@ -1,10 +1,10 @@
 # Calculator
-## [Live Preview](https://hmjatt.github.io/Restaurant-Page/)
+## [Live Preview](https://vm418.github.io/calculator/)
 
-![This is an image](https://raw.githubusercontent.com/hmjatt/hmjatt.github.io/master/images/Restaurant-Page-1.png)
+![This is an image](![image](https://user-images.githubusercontent.com/78382891/201535229-894a7636-4444-4cb5-b1d5-8f915920ee06.png))
 
 
-A Restaurant Home Page rendered using Webpack. This project is created to practice Webpack. Feel free to reach me at [Twitter](https://twitter.com/hmjatt/)
+A Restaurant Home Page rendered using Webpack. This project is created to practice Webpack. Feel free to rea
 
 
 ### Technologies Used
@@ -13,4 +13,3 @@ A Restaurant Home Page rendered using Webpack. This project is created to practi
 
 
 
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.svg" alt="webpack" width="180" height="100"/> </a>  &emsp;   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="margin-top:20px;" src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="120" height="70"/> </a>
