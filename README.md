@@ -1,10 +1,15 @@
 # Calculator
 ## [Live Preview](https://vm418.github.io/calculator/)
 
-![This is an image](![image](https://user-images.githubusercontent.com/78382891/201535229-894a7636-4444-4cb5-b1d5-8f915920ee06.png))
+
+<img src="https://user-images.githubusercontent.com/78382891/201535634-4909b0fd-33fb-49f8-9418-d481d85c6286.png" width="50%"/>
 
 
-A Restaurant Home Page rendered using Webpack. This project is created to practice Webpack. Feel free to rea
+- Using JavaScript, CSS and Html built a calculator allowing users to compute numbers up to 8 significant figures 
+  with addition, subtraction, multiplication, and division 
+- Further added a decimal button to allow users to compute sums with decimals 
+- Calculator allows users to directly compute with their previous answer by pressing an operation button or 
+  press the clear button to compute a new sum
 
 
 ### Technologies Used
